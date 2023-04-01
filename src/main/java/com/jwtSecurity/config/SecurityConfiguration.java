@@ -1,7 +1,6 @@
 package com.jwtSecurity.config;
 
-import jakarta.servlet.Filter;
-import jdk.jfr.Enabled;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
